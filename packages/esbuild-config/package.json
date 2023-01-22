@@ -1,0 +1,9 @@
+{
+  "name": "@hello-threejs/esbuild-config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"noop\""
+  }
+}

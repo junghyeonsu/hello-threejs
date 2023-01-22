@@ -1,0 +1,18 @@
+{
+  "name": "@hello-threejs/monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/junghyeonsu/hello-threejs.git",
+  "license": "MIT",
+  "author": "junghyeonsu <jung660317@naver.com>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@junghyeonsu/eslint-plugin": "^1.0.1",
+    "eslint": "^8.32.0",
+    "prettier": "^2.8.3",
+    "typescript": "^4.9.4"
+  },
+  "packageManager": "yarn@3.3.1"
+}
