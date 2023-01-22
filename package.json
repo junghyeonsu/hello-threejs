@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "junghyeonsu <jung660317@naver.com>",
   "workspaces": [
-    "packages/*"
+    "packages/**/*"
   ],
   "devDependencies": {
     "@junghyeonsu/eslint-plugin": "^1.0.1",

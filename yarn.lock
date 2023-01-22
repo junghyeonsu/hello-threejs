@@ -5,9 +5,9 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"04-local-server-c08af2@workspace:packages/04-local-server":
+"04-local-server-3cde34@workspace:packages/threejs-journy/04-local-server":
   version: 0.0.0-use.local
-  resolution: "04-local-server-c08af2@workspace:packages/04-local-server"
+  resolution: "04-local-server-3cde34@workspace:packages/threejs-journy/04-local-server"
   dependencies:
     "@babel/core": ^7.17.10
     "@babel/preset-env": ^7.17.10
@@ -7488,6 +7488,31 @@ __metadata:
   checksum: 67b2733c4177ba0555a16a99e833340586d7a5b1dc4ac2ce7a376c55542cbc6acf72d785ce55b887597551bcf6e209213bcacb0b2c990db66f56ba4991601acb
   languageName: node
   linkType: hard
+
+"threejs-template-e53294@workspace:packages/threejs-template":
+  version: 0.0.0-use.local
+  resolution: "threejs-template-e53294@workspace:packages/threejs-template"
+  dependencies:
+    "@babel/core": ^7.17.10
+    "@babel/preset-env": ^7.17.10
+    babel-loader: ^8.2.5
+    clean-webpack-plugin: ^4.0.0
+    copy-webpack-plugin: ^10.2.4
+    css-loader: ^6.7.1
+    file-loader: ^6.2.0
+    html-loader: ^3.1.0
+    html-webpack-plugin: ^5.5.0
+    mini-css-extract-plugin: ^2.6.0
+    portfinder-sync: 0.0.2
+    raw-loader: ^4.0.2
+    style-loader: ^3.3.1
+    three: ^0.140.0
+    webpack: ^5.72.0
+    webpack-cli: ^4.9.2
+    webpack-dev-server: ^4.8.1
+    webpack-merge: ^5.8.0
+  languageName: unknown
+  linkType: soft
 
 "thunky@npm:^1.0.2":
   version: 1.1.0
